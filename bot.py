@@ -9,6 +9,7 @@ import re
 import xml.etree.ElementTree as ET
 from email.utils import parsedate_to_datetime
 from pathlib import Path
+from zoneinfo import ZoneInfo
 from urllib.parse import quote
 
 import requests
@@ -282,7 +283,7 @@ def commands(state):
                  "/status = letzter gespeicherter Scan\n/top = letzte Kandidaten\n"
                  "Antworten erscheinen erst beim nächsten automatischen Scan.")
         elif text == "/status":
-            send("Letzter gespeicherter Scan: " + str(state.get("last_scan", "unbekannt")))
+            send("Letzter abgeschlossener Scan: " + str(state.get("last_scan", "unbekannt")))
         elif text == "/top":
             items = state.get("top") or []
             send("🛰 Letzte Kandidaten:\n" + (
@@ -296,7 +297,6 @@ def main():
     if not TOKEN or not CHAT:
         raise SystemExit("Fehlende GitHub-Secrets TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID")
     state = state_load()
-    changed = commands(state)
     stories = latest_news()
     pairs = market_pairs(stories)
     first = [(evaluate(pair, stories), pair) for pair in pairs]
@@ -324,15 +324,15 @@ def main():
         if send(alert(candidate)):
             state["alerts"][key] = {"at": now, "score": candidate["score"]}
             sent += 1
-            changed = True
-    if now - number(state.get("last_saved_at")) >= 21600:
-        state["last_saved_at"] = now
-        state["last_scan"] = dt.datetime.now(UTC).isoformat(timespec="minutes")
-        state["top"] = [{k: item[k] for k in ("name", "score", "url")} for item in evaluated[:10]]
-        changed = True
-    if changed:
-        state["alerts"] = dict(list(state["alerts"].items())[-500:])
-        STATE.write_text(json.dumps(state, ensure_ascii=False, indent=2), encoding="utf-8")
+    # Save each completed scan, not just one every six hours.
+    # This also means /status shows the scan that processed the command.
+    finished = dt.datetime.now(UTC).astimezone(ZoneInfo("Europe/Zurich"))
+    state["last_scan"] = finished.strftime("%d.%m.%Y %H:%M Uhr (Schweiz)")
+    state["last_saved_at"] = now
+    state["top"] = [{k: item[k] for k in ("name", "score", "url")} for item in evaluated[:10]]
+    commands(state)
+    state["alerts"] = dict(list(state["alerts"].items())[-500:])
+    STATE.write_text(json.dumps(state, ensure_ascii=False, indent=2), encoding="utf-8")
     LOG.info("Scan complete: %d matching; %d alerts", len(evaluated), sent)
 
 
