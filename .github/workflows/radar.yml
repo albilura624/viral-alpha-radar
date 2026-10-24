@@ -23,6 +23,8 @@ jobs:
         run: pip install -r requirements.txt
       - name: Check code syntax
         run: python -m py_compile bot.py
+      - name: Run filter unit tests
+        run: python -m unittest discover -s tests
       - name: Scan news and memecoin markets
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
