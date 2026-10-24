@@ -9,7 +9,7 @@ on:
       - .github/workflows/radar.yml
   workflow_dispatch:
   schedule:
-    - cron: '7,22,37,52 * * * *'
+    - cron: '6,16,26,36,46,56 * * * *'
 permissions:
   contents: write
 concurrency:
