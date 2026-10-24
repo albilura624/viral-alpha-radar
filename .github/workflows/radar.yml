@@ -1,5 +1,12 @@
 name: Viral Alpha Radar
 on:
+  push:
+    branches: [main]
+    paths:
+      - bot.py
+      - requirements.txt
+      - tests/**
+      - .github/workflows/radar.yml
   workflow_dispatch:
   schedule:
     - cron: '7,22,37,52 * * * *'
@@ -9,6 +16,20 @@ concurrency:
   group: viral-alpha-radar
   cancel-in-progress: false
 jobs:
+  verify:
+    if: github.event_name == 'push'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install Python packages
+        run: pip install -r requirements.txt
+      - name: Syntax and unit tests
+        run: |
+          python -m py_compile bot.py
+          python -m unittest discover -s tests
   radar:
     # Scheduled scans are disabled until the owner deliberately enables them.
     if: ${{ github.event_name == 'workflow_dispatch' || vars.RADAR_ENABLED == 'true' }}
