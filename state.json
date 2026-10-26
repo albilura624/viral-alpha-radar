@@ -1,13 +1,13 @@
 {
   "offset": 770053501,
   "alerts": {},
-  "last_scan": "26.10.2026 05:19 Uhr (Schweiz)",
+  "last_scan": "26.10.2026 06:04 Uhr (Schweiz)",
   "top": [
     {
       "name": "GTA Online 6",
-      "score": 80,
-      "url": "https://dexscreener.com/solana/9jg6hxbyuxjfjnx88jox5azsofryghqv6s558kjdpwgw"
+      "score": 75,
+      "url": "https://dexscreener.com/solana/doy8qw4yqnemijgge67er1dhwcqekx16mnsdc831spgl"
     }
   ],
-  "last_saved_at": 1792988393.731101
+  "last_saved_at": 1792991044.459052
 }
