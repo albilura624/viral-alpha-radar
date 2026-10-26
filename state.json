@@ -1,13 +1,13 @@
 {
   "offset": 770053501,
   "alerts": {},
-  "last_scan": "26.10.2026 03:24 Uhr (Schweiz)",
+  "last_scan": "26.10.2026 04:05 Uhr (Schweiz)",
   "top": [
     {
       "name": "Tesla official",
-      "score": 75,
+      "score": 84,
       "url": "https://dexscreener.com/solana/a8fmw73jhukiahstwthnpv13ejzjwbdxgp8sz8sj2paw"
     }
   ],
-  "last_saved_at": 1792981490.140775
+  "last_saved_at": 1792983946.855368
 }
