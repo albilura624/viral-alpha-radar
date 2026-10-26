@@ -1,7 +1,13 @@
 {
   "offset": 770053501,
   "alerts": {},
-  "last_scan": "26.10.2026 22:53 Uhr (Schweiz)",
-  "top": [],
-  "last_saved_at": 1793051605.219441
+  "last_scan": "26.10.2026 23:25 Uhr (Schweiz)",
+  "top": [
+    {
+      "name": "Anthropic",
+      "score": 79,
+      "url": "https://dexscreener.com/solana/7day9k3gdhvysezonggggrmedchuxrcerwv9qgq9qzwb"
+    }
+  ],
+  "last_saved_at": 1793053556.714219
 }
