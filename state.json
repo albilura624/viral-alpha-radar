@@ -1,13 +1,18 @@
 {
   "offset": 770053501,
   "alerts": {},
-  "last_scan": "29.10.2026 18:18 Uhr (Schweiz)",
+  "last_scan": "29.10.2026 19:09 Uhr (Schweiz)",
   "top": [
     {
       "name": "GTA VI",
-      "score": 86,
-      "url": "https://dexscreener.com/solana/xg71xrhn7mej5akrzgteuyeitlbbzyncpbn69bryd5a"
+      "score": 85,
+      "url": "https://dexscreener.com/solana/fdamuzyiea7cq1vniqcbhuhpfcmmcjfga6dwqq1hhld2"
+    },
+    {
+      "name": "F7931A",
+      "score": 74,
+      "url": "https://dexscreener.com/solana/4ajaw6ugdpmdke12f1cr9a7uerqjfnepvztswenc5wm6"
     }
   ],
-  "last_saved_at": 1793294296.598387
+  "last_saved_at": 1793297383.864119
 }
