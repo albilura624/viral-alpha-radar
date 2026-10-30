@@ -1,18 +1,7 @@
 {
   "offset": 770053501,
   "alerts": {},
-  "last_scan": "30.10.2026 02:17 Uhr (Schweiz)",
-  "top": [
-    {
-      "name": "GTA VI",
-      "score": 86,
-      "url": "https://dexscreener.com/solana/xg71xrhn7mej5akrzgteuyeitlbbzyncpbn69bryd5a"
-    },
-    {
-      "name": "Wired fees to socials",
-      "score": 77,
-      "url": "https://dexscreener.com/bsc/0x380462504f0eb4eb9955e7db3530559a7a3b0beb"
-    }
-  ],
-  "last_saved_at": 1793323044.034458
+  "last_scan": "30.10.2026 03:14 Uhr (Schweiz)",
+  "top": [],
+  "last_saved_at": 1793326445.108051
 }
