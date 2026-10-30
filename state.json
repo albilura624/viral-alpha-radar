@@ -1,13 +1,7 @@
 {
   "offset": 770053501,
   "alerts": {},
-  "last_scan": "30.10.2026 19:37 Uhr (Schweiz)",
-  "top": [
-    {
-      "name": "TRAORÉ",
-      "score": 81,
-      "url": "https://dexscreener.com/solana/5frbo3bcqy5t32fruagmhu4wedzqrd3rvjzynjexk6jq"
-    }
-  ],
-  "last_saved_at": 1793385420.802489
+  "last_scan": "30.10.2026 20:29 Uhr (Schweiz)",
+  "top": [],
+  "last_saved_at": 1793388578.149599
 }
