@@ -1,7 +1,13 @@
 {
   "offset": 770053501,
   "alerts": {},
-  "last_scan": "30.10.2026 04:05 Uhr (Schweiz)",
-  "top": [],
-  "last_saved_at": 1793329558.54755
+  "last_scan": "30.10.2026 04:52 Uhr (Schweiz)",
+  "top": [
+    {
+      "name": "ZEROday",
+      "score": 88,
+      "url": "https://dexscreener.com/solana/ex1yfebbzzmeowwrhnmmke8aidvnzm93riibdcseztcs"
+    }
+  ],
+  "last_saved_at": 1793332362.111346
 }
