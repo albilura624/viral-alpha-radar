@@ -1,7 +1,13 @@
 {
   "offset": 770053501,
   "alerts": {},
-  "last_scan": "01.11.2026 00:22 Uhr (Schweiz)",
-  "top": [],
-  "last_saved_at": 1793488962.53999
+  "last_scan": "01.11.2026 00:57 Uhr (Schweiz)",
+  "top": [
+    {
+      "name": "Dacity Coin",
+      "score": 79,
+      "url": "https://dexscreener.com/solana/31viz3y3pwyih6dc1g3nphsdkgtlex7husvqutu2f65s"
+    }
+  ],
+  "last_saved_at": 1793491027.487558
 }
