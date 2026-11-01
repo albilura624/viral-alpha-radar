@@ -1,13 +1,18 @@
 {
   "offset": 770053501,
   "alerts": {},
-  "last_scan": "01.11.2026 19:43 Uhr (Schweiz)",
+  "last_scan": "01.11.2026 20:24 Uhr (Schweiz)",
   "top": [
     {
-      "name": "F7931A",
-      "score": 86,
-      "url": "https://dexscreener.com/solana/4ajaw6ugdpmdke12f1cr9a7uerqjfnepvztswenc5wm6"
+      "name": "Dacity Coin",
+      "score": 84,
+      "url": "https://dexscreener.com/solana/31viz3y3pwyih6dc1g3nphsdkgtlex7husvqutu2f65s"
+    },
+    {
+      "name": "Dacity City",
+      "score": 76,
+      "url": "https://dexscreener.com/solana/5s5fzgmcnjz96xtj4pzakvahku3mbguzzy7ftv91p1um"
     }
   ],
-  "last_saved_at": 1793558613.113279
+  "last_saved_at": 1793561080.465672
 }
