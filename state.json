@@ -1,13 +1,7 @@
 {
   "offset": 770053501,
   "alerts": {},
-  "last_scan": "01.11.2026 18:21 Uhr (Schweiz)",
-  "top": [
-    {
-      "name": "F7931A",
-      "score": 81,
-      "url": "https://dexscreener.com/solana/4ajaw6ugdpmdke12f1cr9a7uerqjfnepvztswenc5wm6"
-    }
-  ],
-  "last_saved_at": 1793553703.843417
+  "last_scan": "01.11.2026 18:56 Uhr (Schweiz)",
+  "top": [],
+  "last_saved_at": 1793555804.894004
 }
