@@ -1,13 +1,23 @@
 {
   "offset": 770053501,
   "alerts": {},
-  "last_scan": "01.11.2026 14:27 Uhr (Schweiz)",
+  "last_scan": "01.11.2026 15:15 Uhr (Schweiz)",
   "top": [
     {
       "name": "F7931A",
-      "score": 81,
+      "score": 86,
       "url": "https://dexscreener.com/solana/4ajaw6ugdpmdke12f1cr9a7uerqjfnepvztswenc5wm6"
+    },
+    {
+      "name": "Dacity Coin",
+      "score": 82,
+      "url": "https://dexscreener.com/solana/31viz3y3pwyih6dc1g3nphsdkgtlex7husvqutu2f65s"
+    },
+    {
+      "name": "GTA 6",
+      "score": 70,
+      "url": "https://dexscreener.com/solana/2asndq3xfw7t5hp92fmndaek1k11xbu119gksn3zxs4p"
     }
   ],
-  "last_saved_at": 1793539626.297236
+  "last_saved_at": 1793542534.583516
 }
