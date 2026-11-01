@@ -1,13 +1,13 @@
 {
   "offset": 770053501,
   "alerts": {},
-  "last_scan": "01.11.2026 03:52 Uhr (Schweiz)",
+  "last_scan": "01.11.2026 04:40 Uhr (Schweiz)",
   "top": [
     {
-      "name": "Dacity Coin",
-      "score": 84,
-      "url": "https://dexscreener.com/solana/31viz3y3pwyih6dc1g3nphsdkgtlex7husvqutu2f65s"
+      "name": "SpaceX",
+      "score": 80,
+      "url": "https://dexscreener.com/solana/d6pidf2ekczmwh3pbkuaxfffvtkynabyk5hwyf6cfzcr"
     }
   ],
-  "last_saved_at": 1793501545.455283
+  "last_saved_at": 1793504434.880149
 }
