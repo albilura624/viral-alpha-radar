@@ -1,13 +1,7 @@
 {
   "offset": 770053501,
   "alerts": {},
-  "last_scan": "02.11.2026 23:05 Uhr (Schweiz)",
-  "top": [
-    {
-      "name": "HYPERLIQUID",
-      "score": 66,
-      "url": "https://dexscreener.com/solana/g6jb1xifdjyzocffwej7pqmcya38af3lhyjawwbyptva"
-    }
-  ],
-  "last_saved_at": 1793657111.195748
+  "last_scan": "02.11.2026 23:46 Uhr (Schweiz)",
+  "top": [],
+  "last_saved_at": 1793659577.61228
 }
