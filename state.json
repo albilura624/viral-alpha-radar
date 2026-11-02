@@ -1,18 +1,18 @@
 {
   "offset": 770053501,
   "alerts": {},
-  "last_scan": "02.11.2026 07:57 Uhr (Schweiz)",
+  "last_scan": "02.11.2026 09:26 Uhr (Schweiz)",
   "top": [
     {
       "name": "Dacity City",
-      "score": 78,
+      "score": 73,
       "url": "https://dexscreener.com/solana/5s5fzgmcnjz96xtj4pzakvahku3mbguzzy7ftv91p1um"
     },
     {
       "name": "Dacity Coin",
       "score": 71,
-      "url": "https://dexscreener.com/ethereum/0x8d5288b22eaef3084df16159d5491de6140e95ea"
+      "url": "https://dexscreener.com/solana/31viz3y3pwyih6dc1g3nphsdkgtlex7husvqutu2f65s"
     }
   ],
-  "last_saved_at": 1793602633.626259
+  "last_saved_at": 1793608004.416805
 }
