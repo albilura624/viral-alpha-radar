@@ -1,18 +1,33 @@
 {
   "offset": 770053501,
   "alerts": {},
-  "last_scan": "03.11.2026 23:44 Uhr (Schweiz)",
+  "last_scan": "04.11.2026 00:25 Uhr (Schweiz)",
   "top": [
     {
-      "name": "GTA VI",
-      "score": 79,
-      "url": "https://dexscreener.com/solana/5afbwvsqpjf4cgejq4tajzyypyuvyktrrn3sahnrpnmv"
+      "name": "Dacity Coin",
+      "score": 83,
+      "url": "https://dexscreener.com/solana/31viz3y3pwyih6dc1g3nphsdkgtlex7husvqutu2f65s"
     },
     {
-      "name": "SpaceX official",
-      "score": 72,
-      "url": "https://dexscreener.com/solana/iecjyopzx69tnysvdkwzewovfesrijun7vdggo9ezsh"
+      "name": "Dacity Coin",
+      "score": 83,
+      "url": "https://dexscreener.com/solana/gltqrbgax1dxonuf9yujuhdcepfdxq2rrcfwljeg6bxd"
+    },
+    {
+      "name": "Dacity Coin",
+      "score": 82,
+      "url": "https://dexscreener.com/base/0x1eb54fa006158ec85f8054d97e4a22279b0ba9e7"
+    },
+    {
+      "name": "Amazon",
+      "score": 75,
+      "url": "https://dexscreener.com/solana/9hvabnrv2xmkwbpkvfkwyl3l2hrpnvrssumm3ze8ueer"
+    },
+    {
+      "name": "Dacity Coin",
+      "score": 69,
+      "url": "https://dexscreener.com/ethereum/0x8d5288b22eaef3084df16159d5491de6140e95ea"
     }
   ],
-  "last_saved_at": 1793745858.872632
+  "last_saved_at": 1793748357.507819
 }
