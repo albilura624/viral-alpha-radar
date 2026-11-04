@@ -1,18 +1,18 @@
 {
   "offset": 770053501,
   "alerts": {},
-  "last_scan": "04.11.2026 17:14 Uhr (Schweiz)",
+  "last_scan": "04.11.2026 18:15 Uhr (Schweiz)",
   "top": [
     {
       "name": "GTA VI",
-      "score": 77,
+      "score": 75,
       "url": "https://dexscreener.com/solana/5afbwvsqpjf4cgejq4tajzyypyuvyktrrn3sahnrpnmv"
     },
     {
       "name": "Network Coin",
-      "score": 69,
+      "score": 68,
       "url": "https://dexscreener.com/solana/88jxy6wuyurl7whzsnywjvjqwvtdoxt3rurac1prglwu"
     }
   ],
-  "last_saved_at": 1793808891.21293
+  "last_saved_at": 1793812517.102921
 }
