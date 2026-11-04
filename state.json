@@ -1,38 +1,13 @@
 {
   "offset": 770053501,
   "alerts": {},
-  "last_scan": "04.11.2026 07:26 Uhr (Schweiz)",
+  "last_scan": "04.11.2026 08:51 Uhr (Schweiz)",
   "top": [
-    {
-      "name": "Dacity Coin",
-      "score": 82,
-      "url": "https://dexscreener.com/base/0x1eb54fa006158ec85f8054d97e4a22279b0ba9e7"
-    },
     {
       "name": "GTA VI",
       "score": 82,
       "url": "https://dexscreener.com/solana/5afbwvsqpjf4cgejq4tajzyypyuvyktrrn3sahnrpnmv"
-    },
-    {
-      "name": "Dacity Coin",
-      "score": 80,
-      "url": "https://dexscreener.com/solana/31viz3y3pwyih6dc1g3nphsdkgtlex7husvqutu2f65s"
-    },
-    {
-      "name": "Dacity Coin",
-      "score": 79,
-      "url": "https://dexscreener.com/solana/gltqrbgax1dxonuf9yujuhdcepfdxq2rrcfwljeg6bxd"
-    },
-    {
-      "name": "Dacity Coin",
-      "score": 75,
-      "url": "https://dexscreener.com/ethereum/0x8d5288b22eaef3084df16159d5491de6140e95ea"
-    },
-    {
-      "name": "Amazon.com, Inc.",
-      "score": 69,
-      "url": "https://dexscreener.com/solana/724qaosf1aafkqdo7xfvqb6qizbm4baskylptjcjkiwa"
     }
   ],
-  "last_saved_at": 1793773591.377999
+  "last_saved_at": 1793778703.199604
 }
