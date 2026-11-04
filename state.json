@@ -1,7 +1,7 @@
 {
   "offset": 770053501,
   "alerts": {},
-  "last_scan": "04.11.2026 22:05 Uhr (Schweiz)",
+  "last_scan": "04.11.2026 22:52 Uhr (Schweiz)",
   "top": [
     {
       "name": "Network Coin",
@@ -9,5 +9,5 @@
       "url": "https://dexscreener.com/solana/88jxy6wuyurl7whzsnywjvjqwvtdoxt3rurac1prglwu"
     }
   ],
-  "last_saved_at": 1793826343.63583
+  "last_saved_at": 1793829144.79702
 }
