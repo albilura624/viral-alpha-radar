@@ -1,13 +1,18 @@
 {
   "offset": 770053501,
   "alerts": {},
-  "last_scan": "04.11.2026 04:14 Uhr (Schweiz)",
+  "last_scan": "04.11.2026 05:16 Uhr (Schweiz)",
   "top": [
     {
       "name": "GTA VI",
-      "score": 77,
+      "score": 80,
       "url": "https://dexscreener.com/solana/5afbwvsqpjf4cgejq4tajzyypyuvyktrrn3sahnrpnmv"
+    },
+    {
+      "name": "SpaceX",
+      "score": 72,
+      "url": "https://dexscreener.com/solana/4ckrwu4vgdn8gcjzmmhuar3pxivxugeghqqgp7wadjqb"
     }
   ],
-  "last_saved_at": 1793762094.568773
+  "last_saved_at": 1793765803.755017
 }
