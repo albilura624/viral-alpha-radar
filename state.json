@@ -1,28 +1,13 @@
 {
   "offset": 770053501,
   "alerts": {},
-  "last_scan": "04.11.2026 15:20 Uhr (Schweiz)",
+  "last_scan": "04.11.2026 16:15 Uhr (Schweiz)",
   "top": [
     {
-      "name": "Dacity Coin",
-      "score": 84,
-      "url": "https://dexscreener.com/base/0x1eb54fa006158ec85f8054d97e4a22279b0ba9e7"
-    },
-    {
-      "name": "Dacity Coin",
-      "score": 82,
-      "url": "https://dexscreener.com/ethereum/0x443788ef13a2108291a44c60537d62a107042e52e0440152053af7a54d52c9cb"
-    },
-    {
-      "name": "Dacity Coin",
-      "score": 80,
-      "url": "https://dexscreener.com/solana/31viz3y3pwyih6dc1g3nphsdkgtlex7husvqutu2f65s"
-    },
-    {
       "name": "GTA VI",
-      "score": 79,
+      "score": 81,
       "url": "https://dexscreener.com/solana/5afbwvsqpjf4cgejq4tajzyypyuvyktrrn3sahnrpnmv"
     }
   ],
-  "last_saved_at": 1793802008.962608
+  "last_saved_at": 1793805352.203504
 }
