@@ -1,7 +1,7 @@
 {
   "offset": 770053501,
   "alerts": {},
-  "last_scan": "05.11.2026 13:08 Uhr (Schweiz)",
+  "last_scan": "05.11.2026 14:28 Uhr (Schweiz)",
   "top": [
     {
       "name": "Extended",
@@ -9,5 +9,5 @@
       "url": "https://dexscreener.com/solana/gehmsyqlrlswxndnj5it3a93z3er7g4xga1x1njd3rsj"
     }
   ],
-  "last_saved_at": 1793880492.24955
+  "last_saved_at": 1793885326.224383
 }
