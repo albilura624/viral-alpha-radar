@@ -1,7 +1,18 @@
 {
   "offset": 770053501,
   "alerts": {},
-  "last_scan": "05.11.2026 11:02 Uhr (Schweiz)",
-  "top": [],
-  "last_saved_at": 1793872966.787461
+  "last_scan": "05.11.2026 12:06 Uhr (Schweiz)",
+  "top": [
+    {
+      "name": "Anthropic",
+      "score": 82,
+      "url": "https://dexscreener.com/solana/cngphrpgnoeh37yakxvyipfgsvmuu2fckktlyessdqqc"
+    },
+    {
+      "name": "Anthropic",
+      "score": 81,
+      "url": "https://dexscreener.com/ethereum/0x97a0584ba25813f12fec4b359f1a0046d719bc5c4b8babf9263310639b151ccf"
+    }
+  ],
+  "last_saved_at": 1793876776.49769
 }
