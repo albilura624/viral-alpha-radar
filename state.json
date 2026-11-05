@@ -1,28 +1,7 @@
 {
   "offset": 770053501,
   "alerts": {},
-  "last_scan": "05.11.2026 22:15 Uhr (Schweiz)",
-  "top": [
-    {
-      "name": "Anthropic",
-      "score": 78,
-      "url": "https://dexscreener.com/solana/cngphrpgnoeh37yakxvyipfgsvmuu2fckktlyessdqqc"
-    },
-    {
-      "name": "Anthropic",
-      "score": 78,
-      "url": "https://dexscreener.com/ethereum/0x97a0584ba25813f12fec4b359f1a0046d719bc5c4b8babf9263310639b151ccf"
-    },
-    {
-      "name": "Anthropic",
-      "score": 72,
-      "url": "https://dexscreener.com/solana/7day9k3gdhvysezonggggrmedchuxrcerwv9qgq9qzwb"
-    },
-    {
-      "name": "OpenAI",
-      "score": 69,
-      "url": "https://dexscreener.com/solana/8esksesas6aauqbfceh5qtg2kxbb7vmt1uutvhapwopu"
-    }
-  ],
-  "last_saved_at": 1793913309.900413
+  "last_scan": "05.11.2026 23:04 Uhr (Schweiz)",
+  "top": [],
+  "last_saved_at": 1793916294.657528
 }
