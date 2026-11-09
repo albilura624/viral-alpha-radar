@@ -1,13 +1,7 @@
 {
   "offset": 770053501,
   "alerts": {},
-  "last_scan": "09.11.2026 14:42 Uhr (Schweiz)",
-  "top": [
-    {
-      "name": "GTA VI",
-      "score": 67,
-      "url": "https://dexscreener.com/solana/9r2pka65jsajxn53jn55iyj2zmct3aydyfzll32kadu3"
-    }
-  ],
-  "last_saved_at": 1794231733.842964
+  "last_scan": "09.11.2026 15:40 Uhr (Schweiz)",
+  "top": [],
+  "last_saved_at": 1794235206.50876
 }
