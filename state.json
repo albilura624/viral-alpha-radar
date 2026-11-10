@@ -1,7 +1,13 @@
 {
   "offset": 770053501,
   "alerts": {},
-  "last_scan": "10.11.2026 15:36 Uhr (Schweiz)",
-  "top": [],
-  "last_saved_at": 1794321404.320192
+  "last_scan": "10.11.2026 16:28 Uhr (Schweiz)",
+  "top": [
+    {
+      "name": "GTA 6 Updates",
+      "score": 74,
+      "url": "https://dexscreener.com/solana/hzy1qagrmopgwg9egfm2eeqtadlwkfnwqgihiemnfjtk"
+    }
+  ],
+  "last_saved_at": 1794324529.442561
 }
