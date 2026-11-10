@@ -1,13 +1,23 @@
 {
   "offset": 770053501,
   "alerts": {},
-  "last_scan": "10.11.2026 13:31 Uhr (Schweiz)",
+  "last_scan": "10.11.2026 14:43 Uhr (Schweiz)",
   "top": [
+    {
+      "name": "Binance",
+      "score": 82,
+      "url": "https://dexscreener.com/bsc/0xc33dde337faab26f5e1abbdb6dc090dca3837eaa"
+    },
+    {
+      "name": "GTA 6 Updates",
+      "score": 81,
+      "url": "https://dexscreener.com/solana/9mwfa1odtkuzkvrcurccssjy11fq3dsctqqerclfbod1"
+    },
     {
       "name": "GTA 6 Updates",
       "score": 69,
-      "url": "https://dexscreener.com/solana/9akq68eru8oswkjpv6hpdhe1rr13baqywamf6vesxjxx"
+      "url": "https://dexscreener.com/solana/7fmnj7me35dbhl4g6xgpfiedj5epvrhgh2q9bbpx3gfk"
     }
   ],
-  "last_saved_at": 1794313869.262226
+  "last_saved_at": 1794318205.654648
 }
