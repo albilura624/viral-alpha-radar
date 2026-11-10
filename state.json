@@ -1,13 +1,18 @@
 {
   "offset": 770053501,
   "alerts": {},
-  "last_scan": "10.11.2026 04:30 Uhr (Schweiz)",
+  "last_scan": "10.11.2026 05:28 Uhr (Schweiz)",
   "top": [
     {
-      "name": "Elon Musk",
+      "name": "GTA 6 Updates",
       "score": 80,
+      "url": "https://dexscreener.com/solana/h3yjzx92xszxywebbdkejxficoo1d7efrpua88xxk2dh"
+    },
+    {
+      "name": "Elon Musk",
+      "score": 75,
       "url": "https://dexscreener.com/solana/5c915ztxonli1kkne5spgxv6dbeztgj9y5kg3x5edyr9"
     }
   ],
-  "last_saved_at": 1794281431.276446
+  "last_saved_at": 1794284914.741667
 }
