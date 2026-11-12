@@ -1,13 +1,13 @@
 {
   "offset": 770053501,
   "alerts": {},
-  "last_scan": "12.11.2026 07:39 Uhr (Schweiz)",
+  "last_scan": "12.11.2026 08:59 Uhr (Schweiz)",
   "top": [
     {
-      "name": "SpaceX",
-      "score": 85,
-      "url": "https://dexscreener.com/solana/csduzsmrkpkvapuc1xasuwfpjhg5bdgghycyjy1xmehk"
+      "name": "GTA 6 Updates",
+      "score": 74,
+      "url": "https://dexscreener.com/solana/8gynosrtdnfnjxfs2vjep9w7abs9lc5gbsi9z81pdy83"
     }
   ],
-  "last_saved_at": 1794465545.462059
+  "last_saved_at": 1794470369.557413
 }
