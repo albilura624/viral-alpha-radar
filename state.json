@@ -1,18 +1,13 @@
 {
   "offset": 770053501,
   "alerts": {},
-  "last_scan": "12.11.2026 11:01 Uhr (Schweiz)",
+  "last_scan": "12.11.2026 12:04 Uhr (Schweiz)",
   "top": [
     {
       "name": "GTA 6 Updates",
-      "score": 78,
-      "url": "https://dexscreener.com/solana/3htkgtykzfcym2rjbzn1e61nzlfv41f57gnfffjy5kl6"
-    },
-    {
-      "name": "GTA 6 Updates",
-      "score": 72,
-      "url": "https://dexscreener.com/solana/ad3i7mde13xgaeq1epgmbhf6dv6tsnpof6gptntrnipk"
+      "score": 68,
+      "url": "https://dexscreener.com/solana/8yyddsgi9ffbuo1hgmw6mgn9dv8qhpq8vy5ycbdxpy4e"
     }
   ],
-  "last_saved_at": 1794477710.022488
+  "last_saved_at": 1794481479.720819
 }
