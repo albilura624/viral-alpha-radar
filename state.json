@@ -1,13 +1,13 @@
 {
   "offset": 770053501,
   "alerts": {},
-  "last_scan": "12.11.2026 06:35 Uhr (Schweiz)",
+  "last_scan": "12.11.2026 07:39 Uhr (Schweiz)",
   "top": [
     {
       "name": "SpaceX",
-      "score": 76,
+      "score": 85,
       "url": "https://dexscreener.com/solana/csduzsmrkpkvapuc1xasuwfpjhg5bdgghycyjy1xmehk"
     }
   ],
-  "last_saved_at": 1794461707.405316
+  "last_saved_at": 1794465545.462059
 }
