@@ -1,18 +1,18 @@
 {
   "offset": 770053501,
   "alerts": {},
-  "last_scan": "13.11.2026 17:29 Uhr (Schweiz)",
+  "last_scan": "13.11.2026 18:27 Uhr (Schweiz)",
   "top": [
     {
       "name": "Macca The Gator",
-      "score": 77,
+      "score": 88,
       "url": "https://dexscreener.com/solana/4fonnnmmkma66ppcia9557cg63s2bnn9uofcakxxbmvg"
     },
     {
       "name": "Macca & Friends",
-      "score": 77,
+      "score": 81,
       "url": "https://dexscreener.com/solana/5ujzgl8z3n1nu8zdqtmuxjrighjarjgcmlsqnfra8rsj"
     }
   ],
-  "last_saved_at": 1794587343.918833
+  "last_saved_at": 1794590852.505845
 }
