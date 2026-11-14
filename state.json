@@ -1,18 +1,18 @@
 {
   "offset": 770053501,
   "alerts": {},
-  "last_scan": "14.11.2026 14:44 Uhr (Schweiz)",
+  "last_scan": "14.11.2026 15:28 Uhr (Schweiz)",
   "top": [
     {
       "name": "Macca The Gator",
-      "score": 87,
+      "score": 81,
       "url": "https://dexscreener.com/solana/4fonnnmmkma66ppcia9557cg63s2bnn9uofcakxxbmvg"
     },
     {
       "name": "Macca the Gator",
-      "score": 80,
+      "score": 79,
       "url": "https://dexscreener.com/ethereum/0xc8348da228ba2b0940f2e569a15270927ee05307e0bcf65e19702c3cbede270a"
     }
   ],
-  "last_saved_at": 1794663884.670274
+  "last_saved_at": 1794666536.180148
 }
