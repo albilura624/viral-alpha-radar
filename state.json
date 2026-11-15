@@ -1,7 +1,13 @@
 {
   "offset": 770053501,
   "alerts": {},
-  "last_scan": "15.11.2026 19:37 Uhr (Schweiz)",
-  "top": [],
-  "last_saved_at": 1794767821.389818
+  "last_scan": "15.11.2026 20:28 Uhr (Schweiz)",
+  "top": [
+    {
+      "name": "Jensen Huang",
+      "score": 80,
+      "url": "https://dexscreener.com/solana/51kn4und5bwryfrftp1efw4upl8t4vtphz6okmlhr5ie"
+    }
+  ],
+  "last_saved_at": 1794770924.688409
 }
