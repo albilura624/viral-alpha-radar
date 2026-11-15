@@ -1,23 +1,18 @@
 {
   "offset": 770053501,
   "alerts": {},
-  "last_scan": "15.11.2026 03:23 Uhr (Schweiz)",
+  "last_scan": "15.11.2026 04:16 Uhr (Schweiz)",
   "top": [
     {
-      "name": "Macca the Gator",
-      "score": 86,
-      "url": "https://dexscreener.com/ethereum/0xc8348da228ba2b0940f2e569a15270927ee05307e0bcf65e19702c3cbede270a"
-    },
-    {
       "name": "Macca The Gator",
-      "score": 85,
+      "score": 84,
       "url": "https://dexscreener.com/solana/4fonnnmmkma66ppcia9557cg63s2bnn9uofcakxxbmvg"
     },
     {
-      "name": "Macca & Friends",
-      "score": 81,
-      "url": "https://dexscreener.com/solana/5ujzgl8z3n1nu8zdqtmuxjrighjarjgcmlsqnfra8rsj"
+      "name": "Macca the Gator",
+      "score": 84,
+      "url": "https://dexscreener.com/ethereum/0xc8348da228ba2b0940f2e569a15270927ee05307e0bcf65e19702c3cbede270a"
     }
   ],
-  "last_saved_at": 1794709426.387674
+  "last_saved_at": 1794712566.929335
 }
