@@ -1,13 +1,18 @@
 {
   "offset": 770053501,
   "alerts": {},
-  "last_scan": "16.11.2026 21:34 Uhr (Schweiz)",
+  "last_scan": "16.11.2026 22:28 Uhr (Schweiz)",
   "top": [
     {
       "name": "Anthropic",
-      "score": 86,
+      "score": 81,
       "url": "https://dexscreener.com/solana/af5cn9mu1y8coh68xkbypsjxxdk1lbnxgo76dpprrolb"
+    },
+    {
+      "name": "Microsoft",
+      "score": 68,
+      "url": "https://dexscreener.com/bsc/0x6a1d40c050289cc8dad85ae2c1ad705222f596d2"
     }
   ],
-  "last_saved_at": 1794861293.445934
+  "last_saved_at": 1794864522.997315
 }
