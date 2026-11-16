@@ -1,33 +1,23 @@
 {
   "offset": 770053501,
   "alerts": {},
-  "last_scan": "16.11.2026 11:47 Uhr (Schweiz)",
+  "last_scan": "16.11.2026 12:56 Uhr (Schweiz)",
   "top": [
     {
       "name": "Macca the Gator",
-      "score": 83,
+      "score": 84,
       "url": "https://dexscreener.com/ethereum/0xc8348da228ba2b0940f2e569a15270927ee05307e0bcf65e19702c3cbede270a"
     },
     {
-      "name": "Anthropic",
-      "score": 81,
-      "url": "https://dexscreener.com/solana/af5cn9mu1y8coh68xkbypsjxxdk1lbnxgo76dpprrolb"
-    },
-    {
       "name": "Macca The Gator",
-      "score": 80,
+      "score": 83,
       "url": "https://dexscreener.com/solana/4fonnnmmkma66ppcia9557cg63s2bnn9uofcakxxbmvg"
     },
     {
-      "name": "Anthropic PreStocks",
-      "score": 61,
-      "url": "https://dexscreener.com/solana/bnoev1gp1o247d7ztwsbznrwqjkrmbrx3r6qt4p16ybq"
-    },
-    {
-      "name": "Anthropic",
-      "score": 55,
-      "url": "https://dexscreener.com/solana/7day9k3gdhvysezonggggrmedchuxrcerwv9qgq9qzwb"
+      "name": "Macca the Gator",
+      "score": 80,
+      "url": "https://dexscreener.com/base/0x4746ebfbda989b90e57f736b80aecf5049a611d8"
     }
   ],
-  "last_saved_at": 1794826039.42174
+  "last_saved_at": 1794830168.347461
 }
