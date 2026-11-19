@@ -1,18 +1,7 @@
 {
   "offset": 770053501,
   "alerts": {},
-  "last_scan": "19.11.2026 23:33 Uhr (Schweiz)",
-  "top": [
-    {
-      "name": "Jason's ex",
-      "score": 78,
-      "url": "https://dexscreener.com/solana/6vhxz8nquxfgiixy7erhzlrjbamltgcsd7mzbardoujy"
-    },
-    {
-      "name": "Mandy",
-      "score": 75,
-      "url": "https://dexscreener.com/solana/cduuhndbkyxckshmjyruxpvvrcjo6gikb6hp9z9zyqwk"
-    }
-  ],
-  "last_saved_at": 1795127629.836818
+  "last_scan": "20.11.2026 00:23 Uhr (Schweiz)",
+  "top": [],
+  "last_saved_at": 1795130614.037048
 }
