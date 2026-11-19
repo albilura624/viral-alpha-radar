@@ -1,13 +1,13 @@
 {
   "offset": 770053501,
   "alerts": {},
-  "last_scan": "19.11.2026 19:47 Uhr (Schweiz)",
+  "last_scan": "19.11.2026 20:53 Uhr (Schweiz)",
   "top": [
     {
       "name": "Hippowifhat",
-      "score": 80,
+      "score": 71,
       "url": "https://dexscreener.com/solana/7nwxtckkwsukgiq5qulbttpmmq3fjjl6p76feka9tbrz"
     }
   ],
-  "last_saved_at": 1795114042.095261
+  "last_saved_at": 1795118036.779987
 }
