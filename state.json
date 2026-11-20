@@ -1,7 +1,18 @@
 {
   "offset": 770053501,
   "alerts": {},
-  "last_scan": "20.11.2026 01:11 Uhr (Schweiz)",
-  "top": [],
-  "last_saved_at": 1795133471.720142
+  "last_scan": "20.11.2026 02:25 Uhr (Schweiz)",
+  "top": [
+    {
+      "name": "Fiona the Hippo",
+      "score": 92,
+      "url": "https://dexscreener.com/solana/djbltx1hrgzzrjgj7cwtx6sn3d7tbliytkgwombuwtvb"
+    },
+    {
+      "name": "Fiona the Hippo",
+      "score": 73,
+      "url": "https://dexscreener.com/ethereum/0x6528fa941050f5e830af1a76e1e5250ab656484158acfc8930981cd3d886e1ac"
+    }
+  ],
+  "last_saved_at": 1795137956.959877
 }
