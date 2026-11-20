@@ -1,18 +1,18 @@
 {
   "offset": 770053501,
   "alerts": {},
-  "last_scan": "20.11.2026 05:28 Uhr (Schweiz)",
+  "last_scan": "20.11.2026 06:37 Uhr (Schweiz)",
   "top": [
     {
-      "name": "Fiona the Hippo",
-      "score": 91,
-      "url": "https://dexscreener.com/solana/djbltx1hrgzzrjgj7cwtx6sn3d7tbliytkgwombuwtvb"
+      "name": "GTA 6",
+      "score": 87,
+      "url": "https://dexscreener.com/bsc/0x86aa4d73bad99081a643de2bb48c26ecf9dcb74e"
     },
     {
-      "name": "GTA 6",
-      "score": 89,
-      "url": "https://dexscreener.com/bsc/0x86aa4d73bad99081a643de2bb48c26ecf9dcb74e"
+      "name": "Fiona the Hippo",
+      "score": 87,
+      "url": "https://dexscreener.com/solana/djbltx1hrgzzrjgj7cwtx6sn3d7tbliytkgwombuwtvb"
     }
   ],
-  "last_saved_at": 1795148904.517072
+  "last_saved_at": 1795153066.496638
 }
