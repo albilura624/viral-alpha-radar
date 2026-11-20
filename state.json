@@ -1,13 +1,13 @@
 {
   "offset": 770053501,
   "alerts": {},
-  "last_scan": "20.11.2026 11:07 Uhr (Schweiz)",
+  "last_scan": "20.11.2026 12:15 Uhr (Schweiz)",
   "top": [
     {
       "name": "GTA 6",
-      "score": 82,
+      "score": 87,
       "url": "https://dexscreener.com/bsc/0x86aa4d73bad99081a643de2bb48c26ecf9dcb74e"
     }
   ],
-  "last_saved_at": 1795169276.936784
+  "last_saved_at": 1795173337.056107
 }
