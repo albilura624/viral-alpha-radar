@@ -1,13 +1,13 @@
 {
   "offset": 770053501,
   "alerts": {},
-  "last_scan": "21.11.2026 11:16 Uhr (Schweiz)",
+  "last_scan": "21.11.2026 12:11 Uhr (Schweiz)",
   "top": [
     {
       "name": "Mandy",
-      "score": 80,
+      "score": 73,
       "url": "https://dexscreener.com/solana/cduuhndbkyxckshmjyruxpvvrcjo6gikb6hp9z9zyqwk"
     }
   ],
-  "last_saved_at": 1795256185.400893
+  "last_saved_at": 1795259496.720735
 }
