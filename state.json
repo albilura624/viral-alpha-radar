@@ -1,18 +1,7 @@
 {
   "offset": 770053501,
   "alerts": {},
-  "last_scan": "21.11.2026 03:19 Uhr (Schweiz)",
-  "top": [
-    {
-      "name": "Mandy",
-      "score": 74,
-      "url": "https://dexscreener.com/solana/cduuhndbkyxckshmjyruxpvvrcjo6gikb6hp9z9zyqwk"
-    },
-    {
-      "name": "Pink Hippo",
-      "score": 68,
-      "url": "https://dexscreener.com/solana/htnyecgerhuzjbcmhebbixkqpbmvhgusmmqa4igydvkt"
-    }
-  ],
-  "last_saved_at": 1795227539.588087
+  "last_scan": "21.11.2026 04:12 Uhr (Schweiz)",
+  "top": [],
+  "last_saved_at": 1795230730.4821
 }
